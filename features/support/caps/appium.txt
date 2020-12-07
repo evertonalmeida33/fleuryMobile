@@ -1,0 +1,6 @@
+[caps]
+platformName = "Android"
+deviceName = "VirtualDevice"
+udid = "emulator-5554"
+app = "C:\\Users\\Ve\\Documents\\TesteFleuryMobile\\Fleury.apk"
+automationName = "UiAutomator2"
